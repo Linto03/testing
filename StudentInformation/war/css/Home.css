@@ -1,0 +1,34 @@
+@CHARSET "ISO-8859-1";
+
+#Name {
+	border: 1px solid black;
+	background-color: balck;
+	style: background-color=pink;
+}
+
+#tabs {
+	border: 1px solid black;
+	float: left;
+	heigth: 20%;
+	width: 200px;
+	
+}
+
+#News {
+	border: 1px solid black;
+	text-align: center;
+	height:400px;
+	float: right;
+	width: 200px;
+	float: right
+}
+
+#details {
+	border:1px solid black;
+	float:center;
+	text-align:center;
+	width: 1060px;
+	height:400px;
+	padding : relative;
+	
+	}
